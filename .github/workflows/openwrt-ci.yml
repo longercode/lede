@@ -98,7 +98,6 @@ jobs:
           CONFIG_PACKAGE_odhcp6c_ext_cer_id=0
           CONFIG_PACKAGE_odhcpd-ipv6only=y
           CONFIG_PACKAGE_odhcpd_ipv6only_ext_cer_id=0
-
           EOF
 
           #
